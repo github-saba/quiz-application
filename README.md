@@ -56,7 +56,7 @@ quiz-application/
 ```
 ---
 
-## 📦 Installation
+## Installation
 
 ### Backend
 ```
@@ -70,3 +70,17 @@ cd frontend
 npm install
 npm start
 ```
+## API Example
+```
+GET /api/questions
+POST /api/submit
+```
+## Purpose
+This project demonstrates:
+  - Full-stack development using React and Spring Boot
+  - REST API design with DTO pattern
+  - NoSQL database usage with MongoDB
+  - Clean layered architecture
+
+## Author
+Gnanaparvathan Sabapathy
