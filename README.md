@@ -1,11 +1,11 @@
-# 🧠 Quiz Application (React + Spring Boot + MongoDB)
+# Quiz Application (React + Spring Boot + MongoDB)
 
 A full-stack quiz application that allows users to answer multiple-choice questions 
 and view their score. Built with a React frontend and Spring Boot backend using MongoDB.
 
 ---
 
-## 🚀 Features
+## Features
 - Multiple-choice quiz questions
 - Score calculation and result display
 - RESTful API integration
@@ -15,7 +15,7 @@ and view their score. Built with a React frontend and Spring Boot backend using 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -32,7 +32,7 @@ and view their score. Built with a React frontend and Spring Boot backend using 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 quiz-application/
 │
@@ -53,4 +53,20 @@ quiz-application/
 │ ├── application.properties
 │
 └── README.md
+```
+---
+
+## 📦 Installation
+
+### Backend
+```
+cd backend
+mvn spring-boot:run
+
+```
+### Frontend
+```
+cd frontend
+npm install
+npm start
 ```
