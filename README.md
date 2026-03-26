@@ -45,6 +45,7 @@ quiz-application/
 │
 ├── backend/
 │ ├── src/main/java/
+| | ├── config/
 │ │ ├── controller/
 │ │ ├── service/
 │ │ ├── repository/
