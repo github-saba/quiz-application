@@ -37,10 +37,8 @@ and view their score. Built with a React frontend and Spring Boot backend using 
 - Backend API: http://13.134.53.255:8080/api/quiz
 
 ## Setup
-Backend requires environment variable:
-
-MONGO_URI=your_mongodb_connection_string
----
+- Backend requires environment variable:
+- MONGO_URI=your_mongodb_connection_string
 
 ## Project Structure
 ```
