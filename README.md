@@ -18,18 +18,28 @@ and view their score. Built with a React frontend and Spring Boot backend using 
 ## Tech Stack
 
 ### Frontend
-- React
+- React (Netlify)
 - JavaScript
 - Bootstrap
 
 ### Backend
 - Java
-- Spring Boot
+- Spring Boot (EC2)
 - Spring Data MongoDB
 
 ### Database
-- MongoDB
+- MongoDB Atlas
 
+---
+
+## Live Demo
+Frontend: <Netlify URL>
+Backend API: http://13.134.53.255:8080/api/quiz
+
+## Setup
+Backend requires environment variable:
+
+MONGO_URI=your_mongodb_connection_string
 ---
 
 ## Project Structure
