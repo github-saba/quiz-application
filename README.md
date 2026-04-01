@@ -91,5 +91,20 @@ This project demonstrates:
   - NoSQL database usage with MongoDB
   - Clean layered architecture
 
+---
+## Screenshots
+
+### Quiz Application Screen-1
+
+![image1](/quiz_screenshot.png)
+
+### Quiz Application Screen-2
+
+![image2](/quiz_screenshot2.png)  
+
+### Quiz Result Screen
+![image3](/result_screenshot.png)  
+
+---
 ## Author
 Gnanaparvathan Sabapathy
