@@ -2,7 +2,6 @@ function Question({ question, onAnswer, selected }) {
   return (
     <div>
       <h2>{question.question}</h2>
-
       {question.options.map((opt, i) => (
         <button
           key={i}
