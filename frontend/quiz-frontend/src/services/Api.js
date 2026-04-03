@@ -1,4 +1,4 @@
-const BASE_URL = "http://13.134.53.255:8080/api/quiz";
+const BASE_URL = import.meta.env.VITE_API_URL;
 
 export const fetchQuestions = async () => {
   const response = await fetch(BASE_URL);
