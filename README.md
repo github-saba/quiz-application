@@ -33,7 +33,7 @@ and view their score. Built with a React frontend and Spring Boot backend using 
 ---
 
 ## Live Demo
-- Frontend: [(Netlify URL)](https://gentle-cajeta-68b189.netlify.app/)
+- Frontend: https://gentle-cajeta-68b189.netlify.app/
 - Backend API: http://13.134.53.255:9090/api/quiz
 
 ## Setup
